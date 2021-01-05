@@ -20,4 +20,4 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Open and execute the cells in `SimulatedAnnealing.ipynb` from `notebooks/`. 
+Open and execute the cells in `simulated_annealing.ipynb` from `notebooks/`. 
