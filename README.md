@@ -3,12 +3,9 @@
 Simulated annealing (SA) optimization to find the global maximum of a function.
 
 <p align="center">
-    <img width="466" height="233" src="images/sinusoidal.gif">
+    <img width="466" height="233" src="images/examples.gif">
 </p>
 
-<p align="center">
-    <img width="466" height="233" src="images/concave.gif">
-</p>
 
 
 
