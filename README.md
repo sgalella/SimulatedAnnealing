@@ -1,6 +1,6 @@
 # Simulated Annealing
 
-Simulated annealing (SA) optimization to find the global maximum of a function.
+[Simulated annealing (SA)](https://en.wikipedia.org/wiki/Simulated_annealing) optimization to find the global maximum of a function.
 
 <p align="center">
     <img width="466" height="233" src="images/examples.gif">
